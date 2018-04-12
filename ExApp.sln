@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceMonitor", "ResourceMonitor\ResourceMonitor.csproj", "{59A43C05-B953-4614-9E31-0337091335C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceMonitor", "ResourceMonitor\ResourceMonitor.csproj", "{42434AEE-1500-44E3-9DAB-0395C29CD707}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59A43C05-B953-4614-9E31-0337091335C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59A43C05-B953-4614-9E31-0337091335C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59A43C05-B953-4614-9E31-0337091335C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59A43C05-B953-4614-9E31-0337091335C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42434AEE-1500-44E3-9DAB-0395C29CD707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42434AEE-1500-44E3-9DAB-0395C29CD707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42434AEE-1500-44E3-9DAB-0395C29CD707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42434AEE-1500-44E3-9DAB-0395C29CD707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
